@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'neutra_displaytitling';
+    src: url('../fonts/neutradisp-titling-webfont.eot');
+    src: url('../fonts/neutradisp-titling-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/neutradisp-titling-webfont.woff2') format('woff2'),
+         url('../fonts/neutradisp-titling-webfont.woff') format('woff'),
+         url('../fonts/neutradisp-titling-webfont.ttf') format('truetype'),
+         url('../fonts/neutradisp-titling-webfont.svg#neutra_displaytitling') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
